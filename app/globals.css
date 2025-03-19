@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: aqua;
+}
+
+.bg-primary {
+    background-color: cadetblue;
+}

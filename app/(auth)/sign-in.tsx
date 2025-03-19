@@ -5,7 +5,7 @@ const SignIn = () => {
     return (
         <View style={styles.container}>
             <Text style={styles.title}>Sign In</Text>
-
+            <Text className="text-red-500">Hello there</Text>
 
         </View>
     )
